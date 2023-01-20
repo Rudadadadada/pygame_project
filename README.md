@@ -1,6 +1,6 @@
 <h1><img align="center" src="https://user-images.githubusercontent.com/57627872/213796048-097be178-94ce-42c0-b944-cbaa1da320f0.png" height="30" width="33"" alt="rudadadadada" height="30" width="40" /> Mortal Combat by Ruda</h1>
 
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.11-brightgreen"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.75-brightgreen"></a>
 <a href="https://www.pygame.org/"><img src="https://img.shields.io/badge/Powered%20by-PyGame-yellow"/></a>
 
 ## ✒ Project description
@@ -36,10 +36,18 @@ The game ends when one of the players has no lives left. The player loses one li
 ## 🛠️ Tools
 - <a href="https://www.pygame.org/">Library PyGame <img src="https://user-images.githubusercontent.com/57627872/213811298-ebf69d93-3a3e-4408-a1ae-8e3e5e31ccb7.png" height="20" width="20"></a>
   
-
 ## ⚙️ Contributors
 There are one contributor:
 
 <a href = "https://github.com/rudadadadada/pygame_project/graphs/contributors">
 <img src = "https://contrib.rocks/image?repo=rudadadadada/pygame_project"/>
 </a>
+
+## 📌 My comment
+I did this project in ***2019*** so I want to say that if I were making a game now, I would change a lot in it.
+- I would redo the animation logic.
+- I don't like the pictures and their number. There are a lot of them, it was possible to use less.
+- There is no architecture in the project, everything is done in main.
+- I can't use the latest version of python because pygame doesn't work with it. It is sad☹️
+
+***I uploaded this project because it is part of my programming progress.***
