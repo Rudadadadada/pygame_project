@@ -45,7 +45,7 @@ There are one contributor:
 
 ## 📌 My comment
 I did this project in ***2019*** so I want to say that if I were making a game now, I would change a lot in it.
-- I would redo the animation logic.
+- I would remake the animation logic.
 - I don't like the pictures and their number. There are a lot of them, it was possible to use less.
 - There is no architecture in the project, everything is done in main.
 - I can't use the latest version of python because pygame doesn't work with it. It is sad☹️
